@@ -1,0 +1,6 @@
+{
+  "name": "MahaFlow",
+  "description": "Smart Public Transport Crowd Management and Live Information Platform for Maharashtra (MSRTC Bus & Indian Railways)",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
